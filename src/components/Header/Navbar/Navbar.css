@@ -1,0 +1,18 @@
+.header-navbar{
+    display: flex;
+    text-align: center;
+    height: 32px;
+    width: 100%;
+}
+.header-navbar-menu-button{
+    background: none;
+    font-size: 2rem;
+    color: black;
+    cursor: pointer;
+}
+.header-title{
+    margin: auto;
+}
+.title-span{
+    font-weight: lighter;
+}

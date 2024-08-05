@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+  --primary: #F6B100;
+  --secondary: #181A20;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Urbanist", sans-serif;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+h2{
+  font-weight:800;
+  font-size: 1.126rem;
+}
