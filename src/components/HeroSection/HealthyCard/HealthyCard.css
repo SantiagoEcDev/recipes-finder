@@ -9,12 +9,13 @@
     margin-top: 50px;
     padding: 4px;
     box-shadow: 1px 1px 5px 4px rgb(231, 231, 231);
-    cursor: pointer;
 }
 .healthy-card-image{
     position: absolute;
-    top: -90px;
-    left: -60px;    
+    top: -50px;
+    left: -4px;   
+    width: 180px; 
+    height: 180px;
 }
 .healthy-card-food-info{
     margin: 150px 8px 6px 4px;

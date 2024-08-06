@@ -1,5 +1,6 @@
 import { HealthyCard } from "../HealthyCard/HealthyCard";
 import "./HealthySection.css";
+import KetoSalad from "./KetoSalad.png";
 import SaladImage from "./Salad.png";
 
 export const HealthySection = () => {
@@ -14,18 +15,18 @@ export const HealthySection = () => {
       </section>
       <div className="healthy-cards">
         <HealthyCard
-          image={SaladImage}
+          image={KetoSalad}
           name={"Keto Salad"}
           firstIngredient={"Beans"}
           secondIngredient={"fruits"}
-          rate={"4.5"}
+          rate={"4.9"}
         />
         
         <HealthyCard
           image={SaladImage}
-          name={"Keto Salad"}
-          firstIngredient={"Beans"}
-          secondIngredient={"fruits"}
+          name={"Sewer Salad"}
+          firstIngredient={"Chicken"}
+          secondIngredient={"dal"}
           rate={"4.5"}
         />
       </div>
