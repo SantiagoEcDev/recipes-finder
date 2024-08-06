@@ -1,0 +1,30 @@
+.healthy-header{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.healthy-header-title{
+    font-size: 1.5rem;
+
+}
+.healthy-subheader{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    align-items: center;
+}
+.healthy-subheader-subtitle{
+    color: #F6B100;
+    font-size: 1.125rem;
+
+}
+.healthy-subheader-seeAll{
+    color: #9F9F9F;
+    font-size: 0.875rem;
+    cursor: pointer;
+}
+.healthy-cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
